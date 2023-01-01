@@ -1,0 +1,5 @@
+util.AddNetworkString("AmmoBox_Menu")
+util.AddNetworkString("AmmoBox_Menu_NoOwner")
+util.AddNetworkString("Buy_Ammo")
+util.AddNetworkString("Buy_Ammo_NoOwner")
+util.AddNetworkString("AmmoBox_Owner")
